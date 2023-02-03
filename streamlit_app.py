@@ -161,7 +161,6 @@ audio::-webkit-media-controls-timeline {
   border-radius: 25px;
   margin-left: 10px;
   margin-right: 10px;
-  accent-color: white;
 }
 
 

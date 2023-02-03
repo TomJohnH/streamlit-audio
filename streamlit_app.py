@@ -67,7 +67,7 @@ st.write("Change media player text to red")
 st.code(
     """audio::-webkit-media-controls-time-remaining-display,
 audio::-webkit-media-controls-current-time-display {
-    color: pink;
+    color: red;
 }""",
     language="css",
 )
